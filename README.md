@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📞 Contact
 👨‍💻 Author
-Subhajit Roy
+Armaan khan
 Cybersecurity Enthusiast | Ethical Hacker
 
 Email LinkedIn GitHub Portfolio
